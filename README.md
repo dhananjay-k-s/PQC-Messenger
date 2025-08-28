@@ -1,4 +1,4 @@
-# Q-Guard: Post-Quantum Cryptographic Messaging Platform
+#  Post-Quantum Cryptographic Messenger
 
 A Flutter-based cross-platform messaging application implementing CRYSTALS-Kyber post-quantum cryptography for secure end-to-end encrypted communication.
 
